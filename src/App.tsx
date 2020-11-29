@@ -1,10 +1,8 @@
-import React from 'react';
-import Counter from './Counter';
+import React from "react";
+import ReducerSample from "./ReducerSample";
 
 function App() {
-  return (
-    <Counter />
-  );
+  return <ReducerSample />;
 }
 
 export default App;
